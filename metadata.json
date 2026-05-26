@@ -1,0 +1,6 @@
+{
+  "name": "Royal Teen Patti",
+  "description": "Premium real-time Teen Patti card game with virtual multiplayer tables, secure local state betting system, and AI Dealer assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
